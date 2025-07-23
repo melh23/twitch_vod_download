@@ -1,0 +1,11 @@
+{
+  "name": "twitch_vod_download",
+  "version": "1.0.0",
+  "description": "download vods from twitch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Melanie Hennessee",
+  "license": "ISC"
+}
